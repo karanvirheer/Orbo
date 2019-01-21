@@ -26,9 +26,9 @@ Orbo is a gravitational orbit simulator made in the Unity Game Engine. It simula
 [Here is the link to the imgur album showcasing the journey](https://imgur.com/a/v3wgpF9).
   
  ### Video & Flowchart
-  If the answer to that is yes, then [click right here for a video.](https://www.youtube.com/watch?v=z6D_FB9Ry_Q&lc=z23nupbqrkjmdlnu2acdp433khvhrzjiojytvow1zkdw03c010c)
+ For the video [click right here.](https://www.youtube.com/watch?v=z6D_FB9Ry_Q&lc=z23nupbqrkjmdlnu2acdp433khvhrzjiojytvow1zkdw03c010c)
   
-  If you would like to see a flowchart depicting the planning of Orbo [click here](https://www.yworks.com/products/yed).
+ If you would like to see a flowchart depicting the planning of Orbo [click here](https://www.yworks.com/products/yed).
   
 
 
