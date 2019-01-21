@@ -10,7 +10,7 @@ Orbo is a gravitational orbit simulator made in the Unity Game Engine. It simula
   2. Extract the files into a premade folder. 
   3. Run the Orbo.exe file and have fun.
 
-## What Can I Change in it?
+## What Can I Change In The Simulation?
 
 - **The gravitional constant**
   - As the gravitational constant of 6.67E-11 is *WAY* too small for the Unity Engine to even show any impact, you have to add a multiplier. I personally recommend going with 30 to start off.
