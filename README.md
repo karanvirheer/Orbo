@@ -30,7 +30,7 @@ Orbo is a gravitational orbit simulator made in the Unity Game Engine. It simula
   
  If you would like to see a flowchart depicting the planning of Orbo [click here](https://imgur.com/a/t5kMGoZ).
  
- # Random How To Video
+ ## Random How To Video
  If you want to know how to use a button to switch scenes in Unity, [watch this] (https://www.youtube.com/watch?v=PpIkrff7bKU&t=6s).
   
 
