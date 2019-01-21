@@ -22,10 +22,10 @@ Orbo is a gravitational orbit simulator made in the Unity Game Engine. It simula
   - If you want to make the orbit of the planets be more wider, then go right ahead. This right here is for you. It can help you prevent the collisions that occur and maybe even see interesting elliptical orbits.
 
 ## Behind the Scenes
-### Want to see a picture by picture depiction of the creation of Orbo?
+### A Picture-By-Picture Depiction Of The Journey
 [Here is the link to the imgur album showcasing the journey](https://imgur.com/a/v3wgpF9).
   
- ### Do you want to see the behind the scenes of the making of Orbo?
+ ### Video & Flowchart
   If the answer to that is yes, then [click right here for a video.](https://www.youtube.com/watch?v=z6D_FB9Ry_Q&lc=z23nupbqrkjmdlnu2acdp433khvhrzjiojytvow1zkdw03c010c)
   
   If you would like to see a flowchart depicting the planning of Orbo [click here](https://www.yworks.com/products/yed).
