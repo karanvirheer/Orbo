@@ -24,14 +24,22 @@ Orbo is a gravitational orbit simulator made in the Unity Game Engine. It simula
 ## Behind the Scenes
 ### A Picture-By-Picture Depiction Of The Journey
 [Here is the link to the imgur album showcasing the journey](https://imgur.com/a/v3wgpF9).
+
   
  ### Video & Flowchart
- For the video [click right here.](https://www.youtube.com/watch?v=z6D_FB9Ry_Q&lc=z23nupbqrkjmdlnu2acdp433khvhrzjiojytvow1zkdw03c010c)
+ For the video explaining Orbo, [click right here.](https://www.youtube.com/watch?v=z6D_FB9Ry_Q&lc=z23nupbqrkjmdlnu2acdp433khvhrzjiojytvow1zkdw03c010c)
   
  If you would like to see a flowchart depicting the planning of Orbo [click here](https://imgur.com/a/t5kMGoZ).
  
- ## Random How To Video
+ ### Random How To Video
  If you want to know how to use a button to switch scenes in Unity, [watch this](https://www.youtube.com/watch?v=PpIkrff7bKU&t=6s).
+ 
+ ### Timelapse Of The Particle System Creation
+ 
+ Accidentally recorded myself working on the particle system for my Sun and ended up with a 1 hour clip. Edited it and sped it up for easier viewing. [Watch it here.](https://youtu.be/CxB-6o8hE30)
+ 
+ ### Discovery Of A Random Collisions Bug
+ [Watch it here.](https://youtu.be/8kh7B6cPEjg)
   
 
 
