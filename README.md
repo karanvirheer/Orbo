@@ -41,5 +41,18 @@ Orbo is a gravitational orbit simulator made in the Unity Game Engine. It simula
  ### Discovery Of A Random Collisions Bug
  [Watch it here.](https://youtu.be/8kh7B6cPEjg)
   
-# What Videos Did You Use To Help You?
+## What Videos Did You Use To Help You?
+
+For the Sun and the particle system I used [this.](https://www.youtube.com/watch?v=qJEBAPRt8AA)
+
+For the main menu I used [this.](https://www.youtube.com/watch?v=zc8ac_qUXQY&t=547s)
+
+For the options menu I used [this.](https://www.youtube.com/watch?v=YOaYQrN1oYQ&t=888s)
+
+For the main simulation I used [this.](https://www.youtube.com/watch?v=btsNk9EANzY)
+
+Since I didn't know how to use Premiere Cut Pro, I had to use [this.](https://www.youtube.com/watch?v=Hls3Tp7JS8E&t=426s)
+
+
+
 
