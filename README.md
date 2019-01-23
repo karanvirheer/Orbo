@@ -40,6 +40,9 @@ Orbo is a gravitational orbit simulator made in the Unity Game Engine. It simula
  
  ### Discovery Of A Random Collisions Bug
  [Watch it here.](https://youtu.be/8kh7B6cPEjg)
+ 
+## Where Can I See The Code?
+Just click on the scripts folder and click on that file that ends with .cs and that should let you view the contents of the file.
   
 ## What Videos Did You Use To Help You?
 
