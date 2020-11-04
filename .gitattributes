@@ -1,2 +1,2 @@
-* linguist-vendored
-*.cs linguist-vendored=false
+MonoBleedingEdge/* linguist-vendored
+Orbo _Data/* linguist-vendored
